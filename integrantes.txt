@@ -1,6 +1,6 @@
 Integrantes del equipo
-1. Antonela Pomavilla - Lider del equipo
-2. Elian Coello - Encargado de la presentación
+1. Antonela Pomavilla - Líder del equipo
+2. Elián Coello - Encargado de la presentación
 3. Lady Cantos - Encargada del repositorio
 Objetivo: practicar Git y GitHub
 Asignatura: Introducción a la Ingeniería de Software
